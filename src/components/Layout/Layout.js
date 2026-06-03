@@ -22,10 +22,10 @@ const Layout = ({ t, children }) => {
         <Head>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
-          <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet" />
+          <link href="https://fonts.googleapis.com/css2?family=National+Park:wght@300;400&display=swap" rel="stylesheet" />
           <style>{`
-            body, button, input, select, textarea, span, a {
-              font-family: 'Be Vietnam Pro', sans-serif !important;
+            body, button, input, select, textarea, span, a, h1, h2, h3, h4, h5, h6 {
+              font-family: 'National Park', sans-serif !important;
             }
           `}</style>
         </Head>

@@ -116,6 +116,17 @@ const AboutText = () => {
           </a>{" "}
           for contributing the translation to Portuguese.
         </li>
+        <li>
+          <a
+            className={s.link}
+            href="https://www.linkedin.com/in/saonguyen/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Sao Nguyen
+          </a>{" "}
+          for contributing the translation to Vietnamese.
+        </li>
       </ul>
     </span>
   );

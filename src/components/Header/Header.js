@@ -72,6 +72,7 @@ const Header = ({ t }) => {
               <option value="pt">Português</option>
               <option value="tr">Türkçe</option>
               <option value="zh-cn">简体中文</option>
+              <option value="vi">Tiếng Việt</option>
             </select>
             <svg
               xmlns="http://www.w3.org/2000/svg"
